@@ -5,7 +5,7 @@ If someone hits the INSERT or DELETE key, it will be broadcast in the Discord.
 Go to config.lua and change YOUR WEBHOOK to your webhook, after that every message that is sent should go to your webhook.
 
 # PREVIEW
-
+https://youtu.be/nwJHkDMbF4E
 
 # OTHERS
 This is my very first script, if you want more then join my discord server.
