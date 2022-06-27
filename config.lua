@@ -8,8 +8,7 @@
 
 Config                            = {}
                                                  
-Config.Locale = 'en' -- select you language (en/de)
-Config.Webhook = "https://discord.com/api/webhooks/991059984156602398/KO6NK9PEQYI0T-FQB6IcL_ko3VVeNiH1ME97q3e_vclMwFpXOsZKIO_fkEdRVeX4941L" -- your discord webhook
+Config.Webhook = "YOUR_WEBHOOK" -- your discord webhook
 
 -- Version. 1.0
 -- This is my very first script that I uploaded to github
